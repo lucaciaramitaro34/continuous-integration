@@ -29,6 +29,7 @@ def triangular(n):
 
     The nth triangular number is the sum of all numbers from 1 to n.
     It is like the factorial, but uses addition instead of multiplication.
+    *Comment for second push*
 
     >>> triangular(1)
     1
